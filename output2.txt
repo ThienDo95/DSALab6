@@ -1,0 +1,512 @@
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+1
+1
+Enter an item to insert at the back: 
+Thien
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+1
+1
+Enter an item to insert at the back: 
+Thu
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+1
+1
+Enter an item to insert at the back: 
+Hoan
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+8
+8
+Thien Thu Hoan 
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+2
+2
+Enter an item to insert at the front: 
+Fish
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+8
+8
+Fish Thien Thu Hoan 
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+8
+8
+Fish Thien Thu Hoan 
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+2
+2
+Enter an item to insert at the front: 
+Dog
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+8
+8
+Dog Fish Thien Thu Hoan 
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+2
+2
+Enter an item to insert at the front: 
+Twash
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+8
+8
+Twash Dog Fish Thien Thu Hoan 
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+2
+2
+Enter an item to insert at the front: 
+cat
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+8
+8
+cat Twash Dog Fish Thien Thu Hoan 
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+5
+5
+cat is your front item
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+6
+6
+Hoan is your last item
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+2
+2
+Enter an item to insert at the front: 
+steve
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+8
+8
+steve cat Twash Dog Fish Thien Thu Hoan 
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+3
+3
+steve has been removed from the front queue
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+8
+8
+cat Twash Dog Fish Thien Thu Hoan 
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+3
+3
+cat has been removed from the front queue
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+8
+8
+Twash Dog Fish Thien Thu Hoan 
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+4
+4
+Hoan has been removed from the end queue
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+8
+8
+Twash Dog Fish Thien Thu 
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+4
+4
+Thu has been removed from the end queue
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+8
+8
+Twash Dog Fish Thien 
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+7
+7
+Queue has been cleared
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+8
+8
+
+
+Application's Options: 
+                       
+1.   Insert item at back of Deq.
+2.   Insert item at front of Deq.
+3.   Remove item from front of Deq.
+4.   Remove item from back of Deq.
+5.   Display front item of Deq.
+6.   Display last item of Deq.
+7.   Clear Deq.
+8.   Display content of Deq.
+9.   Exit.
+                       
+Choose your option: 
+
+9
+9
+PEACE

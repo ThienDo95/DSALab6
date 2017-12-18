@@ -1,0 +1,286 @@
+
+Application's Options: 
+                       
+1. Insert item at back of queue
+2. Remove item from front of queue
+3. Display front items
+4. Clear queue
+5. Display content of queue
+6. Exit
+                       
+Choose your option: 
+
+5
+Queue has 0 item(s). They are: 
+
+Application's Options: 
+                       
+1. Insert item at back of queue
+2. Remove item from front of queue
+3. Display front items
+4. Clear queue
+5. Display content of queue
+6. Exit
+                       
+Choose your option: 
+
+1
+Enter an item: 
+Thien
+
+Application's Options: 
+                       
+1. Insert item at back of queue
+2. Remove item from front of queue
+3. Display front items
+4. Clear queue
+5. Display content of queue
+6. Exit
+                       
+Choose your option: 
+
+1
+Enter an item: 
+Thu
+
+Application's Options: 
+                       
+1. Insert item at back of queue
+2. Remove item from front of queue
+3. Display front items
+4. Clear queue
+5. Display content of queue
+6. Exit
+                       
+Choose your option: 
+
+5
+Queue has 2 item(s). They are: Thien Thu 
+
+Application's Options: 
+                       
+1. Insert item at back of queue
+2. Remove item from front of queue
+3. Display front items
+4. Clear queue
+5. Display content of queue
+6. Exit
+                       
+Choose your option: 
+
+3
+Thien
+
+Application's Options: 
+                       
+1. Insert item at back of queue
+2. Remove item from front of queue
+3. Display front items
+4. Clear queue
+5. Display content of queue
+6. Exit
+                       
+Choose your option: 
+
+2
+
+Application's Options: 
+                       
+1. Insert item at back of queue
+2. Remove item from front of queue
+3. Display front items
+4. Clear queue
+5. Display content of queue
+6. Exit
+                       
+Choose your option: 
+
+3
+Thu
+
+Application's Options: 
+                       
+1. Insert item at back of queue
+2. Remove item from front of queue
+3. Display front items
+4. Clear queue
+5. Display content of queue
+6. Exit
+                       
+Choose your option: 
+
+1
+Enter an item: 
+Thien
+
+Application's Options: 
+                       
+1. Insert item at back of queue
+2. Remove item from front of queue
+3. Display front items
+4. Clear queue
+5. Display content of queue
+6. Exit
+                       
+Choose your option: 
+
+1
+Enter an item: 
+Hoan
+
+Application's Options: 
+                       
+1. Insert item at back of queue
+2. Remove item from front of queue
+3. Display front items
+4. Clear queue
+5. Display content of queue
+6. Exit
+                       
+Choose your option: 
+
+5
+Queue has 3 item(s). They are: Thu Thien Hoan 
+
+Application's Options: 
+                       
+1. Insert item at back of queue
+2. Remove item from front of queue
+3. Display front items
+4. Clear queue
+5. Display content of queue
+6. Exit
+                       
+Choose your option: 
+
+3
+Thu
+
+Application's Options: 
+                       
+1. Insert item at back of queue
+2. Remove item from front of queue
+3. Display front items
+4. Clear queue
+5. Display content of queue
+6. Exit
+                       
+Choose your option: 
+
+1
+Enter an item: 
+Ha
+
+Application's Options: 
+                       
+1. Insert item at back of queue
+2. Remove item from front of queue
+3. Display front items
+4. Clear queue
+5. Display content of queue
+6. Exit
+                       
+Choose your option: 
+
+5
+Queue has 4 item(s). They are: Thu Thien Hoan Ha 
+
+Application's Options: 
+                       
+1. Insert item at back of queue
+2. Remove item from front of queue
+3. Display front items
+4. Clear queue
+5. Display content of queue
+6. Exit
+                       
+Choose your option: 
+
+1
+Enter an item: 
+Tin
+
+Application's Options: 
+                       
+1. Insert item at back of queue
+2. Remove item from front of queue
+3. Display front items
+4. Clear queue
+5. Display content of queue
+6. Exit
+                       
+Choose your option: 
+
+5
+Queue has 5 item(s). They are: Thu Thien Hoan Ha Tin 
+
+Application's Options: 
+                       
+1. Insert item at back of queue
+2. Remove item from front of queue
+3. Display front items
+4. Clear queue
+5. Display content of queue
+6. Exit
+                       
+Choose your option: 
+
+2
+
+Application's Options: 
+                       
+1. Insert item at back of queue
+2. Remove item from front of queue
+3. Display front items
+4. Clear queue
+5. Display content of queue
+6. Exit
+                       
+Choose your option: 
+
+3
+
+Thien
+
+Application's Options: 
+                       
+1. Insert item at back of queue
+2. Remove item from front of queue
+3. Display front items
+4. Clear queue
+5. Display content of queue
+6. Exit
+                       
+Choose your option: 
+
+4
+Queue has been cleared
+Application's Options: 
+                       
+1. Insert item at back of queue
+2. Remove item from front of queue
+3. Display front items
+4. Clear queue
+5. Display content of queue
+6. Exit
+                       
+Choose your option: 
+
+5
+
+Queue has 0 item(s). They are: 
+
+Application's Options: 
+                       
+1. Insert item at back of queue
+2. Remove item from front of queue
+3. Display front items
+4. Clear queue
+5. Display content of queue
+6. Exit
+                       
+Choose your option: 
+
+6
+
+PEACE
